@@ -1,3 +1,5 @@
+--Auther wu
+
 import Data.List
 
 data Sex = Male | Female deriving (Eq, Show)
